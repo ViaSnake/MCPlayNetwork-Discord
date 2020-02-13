@@ -1,0 +1,13 @@
+{
+    "title": "MCPlay Official Discord server",
+    "fields": [
+        {
+            "name": ":flag_jp: 日本語",
+            "value": "MCPlay公式Discordサーバへようこそ！\n本Discordサーバで発言を行うためにはDMに送られてくるGoogle reCAPTCHAを用いた確認作業を行う必要があります。\n確認が完了後すぐに発言が許可されます。\n#Ruleを確認して楽しんでご利用ください。"
+        },
+        {
+            "name": ":flag_us: English",
+            "value": "Welcome to the official MCPlay Discord server!\nIn order to speak on this Discord server, it is necessary to perform a confirmation operation using Google reCAPTCHA sent to the DM.\nSpeaking will be allowed as soon as confirmation is complete.\nCheck the #Rule & Have a fun"
+        }
+    ]
+}
