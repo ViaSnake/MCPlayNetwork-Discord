@@ -1,0 +1,14 @@
+{
+    "title": "提案 / Suggestion",
+    "content": ":white_check_mark: ",
+    "fields": [
+        {
+            "name": ":flag_jp: 日本語",
+            "value": "MCPlayに関する提案をする場合、このチャンネルで自由に議論してください。\n良い議論や賛成の意思を示す場合、:white_check_mark: をリアクションしてください。逆に賛同できない場合は、:x: をリアクションしてください。"
+        },
+        {
+            "name": ":flag_us: English",
+            "value": "Discuss suggestions for MCPlay on this channel.\nIf you need good discussion and support, please react to :white_check_mark:. If you do not agree, please react to :x:."
+        }
+    ]
+}
