@@ -1,0 +1,13 @@
+{
+    "title": "FAQ",
+    "fields": [
+        {
+            "name": ":flag_jp: 不具合やプレイヤーレポートなど、スタッフに連絡を取りたい",
+            "value": "#spam で次のチャットを入力してください。!ticket open <タイトル>\n<タイトル>には報告したい内容を簡潔に記入してください。\n入力するとSUPPORTカテゴリにあなたとスタッフだけのチャンネルが作成されます。"
+        },
+        {
+            "name": ":flag_us: I want to contact the staff about bugs and player reports.",
+            "value": "Enter the next chat in #spam . !ticket open <TITLE>\n<TITLE> should be a brief description of what you want to report.\nAs you type, a channel exclusively for you and staff will be created in the SUPPORT category."
+        }
+    ]
+}
