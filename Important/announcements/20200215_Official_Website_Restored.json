@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: 公式ウェブサイト 復旧",
+            "value": "公式ウェブサイトが復旧しました。デザインやシステムが一新されているため、ページが不足していますが順次追加予定です。もしも追加してほしいページがある場合 #suggestion からご連絡ください。\n\nシステムの変更により多言語対応しました。日本語ページは次のURLです。\nhttps://mcplay.biz/ja/"
+        },
+        {
+            "name": ":flag_us: Official website returned",
+            "value": "The official website returned. The pages are lacking due to the redesign of the system and system, but will be added in due course. If you have any pages to add, please contact us via #suggestion.\n\nMulti-language support by changing the system. The English page is at the following URL.\nhttps://mcplay.biz/en/"
+        }
+    ]
+}
