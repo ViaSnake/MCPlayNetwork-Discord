@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: MCPlay Community閉鎖のお知らせ",
+            "value": "平素よりMCPlayをご利用いただき誠にありがとうございます。\n2019年よりMCPlay Communityということでフォーラムサイトを運営してまいりましたが、運営コスト削減のために閉鎖させていただくこととなりました。\n今後、MCPlay Communityにて提供されていたプレイヤー報告や不具合報告、アップデートログの提供はDiscordおよびウェブサイトにて提供を行わさせていただきます。\n\nMCPlay Communityにて収集された各種個人情報は既に破棄されており、各種必要データの移動が終了次第データが破棄される予定です。\n\n今後ともMCPlayを宜しくお願い致します。"
+        },
+        {
+            "name": ":flag_us: MCPlay Community closed",
+            "value": "Thank you for using MCPlay.\nThe forum site has been operated as MCPlay Community since 2019, but it has been closed to reduce operating costs.\nIn the future, player reports, bug reports, and update logs provided by MCPlay Community will be provided on Discord and the website.\n\nThe various personal information collected by MCPlay Community has already been destroyed, and the data will be destroyed as soon as the necessary data has been transferred."
+        }
+    ]
+}
