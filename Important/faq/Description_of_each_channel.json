@@ -1,0 +1,13 @@
+{
+    "title": "FAQ",
+    "fields": [
+        {
+            "name": ":flag_jp: 各チャンネルの説明",
+            "value": "#welcome まだここが見えてる場合は、チャンネルを読んでください :)\n\nIMPORTANTカテゴリ\n#rule このDiscordサーバーのルール\n#announcements MCPlayとこのDiscordサーバーの重要なお知らせ\n#minecraft-announcements Minecraftとそれに関するお知らせ\n#update-log MCPlayのアップデート\n\nCOMMUNITYカテゴリ\n#general 雑談、フリートピック\n#minecraft Minecraftと同期チャット\n#media 画像や動画など\n#suggestion チームへの提案\n#spam ボットのコマンドなど煩いチャット（ミュート推奨）\n\nSUPPORTカテゴリ\n#support_status 現在のチケット状況\nチケットの個別チャットルームもここに作られます。\n\nLOGSカテゴリ\n#punishment Discordサーバの処罰履歴\n#modlog Discordサーバのモデレーション履歴"
+        },
+        {
+            "name": ":flag_us: Description of each channel",
+            "value": "#welcome If you still see this, read the channel :)\n\nIMPORTANT category\n#rule このDiscordサーバーのルール\n#announcements Important information about MCPlay and this Discord server\n#minecraft-announcements Minecraft and announcements about it\n#update-log MCPlay Update log\n\nCOMMUNITY category\n#general Chat, free topics\n#minecraft Sync chat with Minecraft\n#media Images and videos\n#suggestion Suggestions to the team\n#spam Annoying chats such as bot commands (mute recommended)\n\nSUPPORT category\n#support_status Current ticket status\nIndividual chat rooms for tickets are also created here.\n\nLOGS category\n#punishment Discord server punishment history\n#modlog Moderation history of Discord server"
+        }
+    ]
+}
