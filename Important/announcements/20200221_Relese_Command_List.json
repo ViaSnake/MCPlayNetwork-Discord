@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: コマンドリスト リリース",
+            "value": "公式ウェブサイトにコマンドリストページを作成しました。ページの情報は不完全ですが、最低限のコマンドは記載されています。\n記載漏れを見つけた場合は、`!ticket open <タイトル>`でチケットを開いてSTAFFに連絡してください。\n\nhttps://mcplay.biz/commands/"
+        },
+        {
+            "name": ":flag_us: Relese command list",
+            "value": "A command list page has been created on the official website. The information on the page is incomplete, but the minimum commands are listed.\nIf you find any omissions, open a ticket with `!ticket open <title>` and contact STAFF.\n\nhttps://mcplay.biz/commands/"
+        }
+    ]
+}
