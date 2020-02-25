@@ -1,0 +1,13 @@
+{
+    "title": "FAQ",
+    "fields": [
+        {
+            "name": ":flag_jp: 寄付",
+            "value": "私たちは寄付を受け付けています。寄付によるメリットは一切ありません。寄付された金額は100%がサーバーの費用に充てられます。\n\n我々のサーバーは個人で運営されており、年間数万円の費用が必要です。もしもサーバーを拡張する場合、これは10万円を超えます。\n\n寄付リンク：https://www.paypal.me/v2d"
+        },
+        {
+            "name": ":flag_us: Donation",
+            "value": "We are accepting donations. There is no benefit from donating. 100% of the donated money will be spent on server costs.\n\nOur servers are run by individuals and cost tens of thousands of yen per year. If you expand the server, this is over 100,000 yen.\n\nDonate link：https://www.paypal.me/v2d"
+        }
+    ]
+}
