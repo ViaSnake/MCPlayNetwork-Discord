@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: 開発サーバー解放",
+            "value": "MCPlayNetworkの開発情報を取得できるDiscordサーバーを解放いたします。\n該当Discordサーバーでは、開発に関する情報がBotにより自動的に投稿されています。そのため開発に関する情報やアップデートをより正確に確認可能です。\n\n注意点\n- サーバーでの発言は一切許可されません。\n- 公式にアップデートとして発表された以上の開発に関する情報には回答できません。\nhttps://discord.gg/PK7m6HP"
+        },
+        {
+            "name": ":flag_us: Open development server",
+            "value": "We will release the Discord server which can acquire the development information of MCPlayNetwork.\nOn the relevant Discord server, information about development is automatically posted by the bot. Therefore, development information and updates can be checked more accurately.\n\nimportant\n- No speech is allowed on the server.\n- We cannot respond to information about developments beyond those officially announced as updates.\nhttps://discord.gg/PK7m6HP"
+        }
+    ]
+}
