@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: データリセットのお知らせ",
+            "value": "新たな経済システムに問題を発見しました。\nこの問題によりデータベース上の一部ユーザーデータは適切に登録されず、いくつかの問題を引き起こしました。\nそのため、全ユーザーの一部経済に関連するデータがリセットされます。\n\nリセットされるデータは次の通りです。\n- Mining レベル\n- Building レベル\n- Farming レベル\n- Hunting レベル\n- Crafting レベル\n- Fishing レベル"
+        },
+        {
+            "name": ":flag_us: Data reset announce",
+            "value": "Found a problem in the new economic system\nDue to this problem, some user data in the database was not registered properly and caused some problems.\nThis resets some economic data for all users.\n\nThe reset data is as follows.\n- Mining level\n- Building level\n- Farming level\n- Hunting level\n- Crafting level\n- Fishing level"
+        }
+    ]
+}
