@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: オークション/GUIショップ ベータリリース",
+            "value": "本機能はベータであり、不具合やアイテムロストが発生する可能性があります。\n\n`/ah`でGUIを表示することができます。\n`/ah sell <価格> <個数>`で手に持ったアイテムを販売することができます。\n`/ah bid <価格> <個数>`で手に持ったアイテムを時間制限ありのオークションに出品できます。\n\n問題を発見した場合、 @Staff に連絡して下さい。"
+        },
+        {
+            "name": ":flag_us: Auction/GUI shop Beta relese",
+            "value": "This feature is in beta and may cause bugs or lost items.\n\n`/ah` Show GUI\n`/ah sell <price> <amount>` sell items in your hand.\n`ah bid <price> <amount>`\nItems you have in hand can be put up for auction with time limit.\n\nIf you find any issue, contact @Staff."
+        }
+    ]
+}
