@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: 全プレーヤーへの補償に関する通知",
+            "value": "全プレイヤーのゲーム内通貨が保存されない問題を確認し、修正を行いました。\nしかし全てのユーザーの損失を計算し、確認してから戻す場合、とても長い時間と大きな労力が伴います。\nそのため全プレイヤーに対して一律の補填を行うことにしました。\n次回ログイン時に2020年03月02日16:00迄にログインしたプレイヤーは全てはゲーム内通貨を10,000受け取ります。\n\nその他の重大な問題は確認できなかったため、補填は行われません。問題があると思われる場合、 @STAFF に連絡してください。"
+        },
+        {
+            "name": ":flag_us: Notice about compensation for all players",
+            "value": "Fixed issue where in-game currency for all players was not saved.\nHowever, calculating, reviewing, and returning the losses for all users can be very time consuming and labor intensive.\nTherefore, we decided to make uniform compensation for all players.\nAll players who log in by 16:00 on March 02, 2020 at the next login will receive 10,000 in-game currency.\n\nNo other major issues were identified and no compensation will be made. If you think you have a problem, please contact @STAFF."
+        }
+    ]
+}
