@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: データベースの変更",
+            "value": "ホストを一時的にシャットダウンし、データベースに大幅な変更を加えました。ネットワークのボトルネックは改善されたようですが、全体的なパフォーマンスは評価されていません。問題がある場合は、@STAFFにお問い合わせください。"
+        },
+        {
+            "name": ":flag_us: Database changes",
+            "value": "We shut down the host temporarily and made significant changes to the database. It seems that the bottleneck on the network has been improved, but its overall performance has not been evaluated. If you have any problems, please contact @STAFF."
+        }
+    ]
+}
