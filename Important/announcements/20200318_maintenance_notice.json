@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: メンテナンスのお知らせ",
+        "value": "2020年03月20日 0:00~にメンテナンスを行います。メンテナンス終了は18:00頃を予定しております。\n\nメンテナンス内容：\n- サーバ周辺機器の変更\n- サーバの移動\n- その他ネットワーク機器の変更"
+        },
+        {
+            "name": ":flag_us: Maintenance notification",
+        "value": "Maintenance will be performed from 0:00 on March 20, 2020. The maintenance is scheduled to end around 18:00.\n\nMaintenance content: \n- Change server peripheral device \n- Move server \n- Change other network device"
+        }
+    ]
+}
