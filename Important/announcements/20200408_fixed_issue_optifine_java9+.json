@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: OptiFine + Java9+以上で接続できない問題の修正",
+        "value": "OptiFineをスタンドアロンインストールし、Java9以上で動作させている場合、プレイヤーがサーバーへアクセスできない問題が修正されました。\n本不具合はOptiFineの不具合であり、不具合そのものは修正されておりません。\nOptifine assumes the server port is always 25565 on Java 9+ #2917: https://github.com/sp614x/optifine/issues/2917"
+        },
+        {
+            "name": ":flag_us: Fix issue that connection is not possible with OptiFine + Java9+",
+        "value": "Fixed an issue where players could not access the server when running OptiFine with a standalone installation of Java 9 or higher.This problem is a issue with OptiFine, and the issue itself has not been fixed.\nOptifine assumes the server port is always 25565 on Java 9+ #2917: https://github.com/sp614x/optifine/issues/2917"
+        }
+    ]
+}
