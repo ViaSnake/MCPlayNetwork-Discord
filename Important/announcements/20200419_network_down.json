@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: ネットワーク障害",
+        "value": "2020/04/19 1:00頃にTokyoに設置されているアクセスの中継を担っているサーバー２台が何らかの原因により再起動されました。それによりプレイヤーはネットワークへアクセスする際にエラーが発生していました。\nこの問題は2020/04/19 12:10頃に修正され、ネットワークパフォーマンスが大きく改善されました。\nこの問題はウェブサーバーでも発生していましたが、この問題に関連したいたため、同様に修正されました。\n\nご不便をおかけして申し訳ありません。\n今後ともMCPlayNetworkをよろしくお願いいたします。"
+        },
+        {
+            "name": ":flag_us: Network down",
+        "value": "2020/04/19 At around 1:00, two servers in Tokyo, which are responsible for relaying access, have been rebooted for some reason. This caused the player to experience an error when accessing the network.\nThis issue was fixed at around 12:10 on 2020/04/19, resulting in a significant improvement in network performance.\nThis issue was also occurring on the web server, but has been fixed as well because it is related to this issue.\n\nWe apologize for any inconvenience this may cause.\nThank you for your continued support of MCPlayNetwork."
+        }
+    ]
+}
