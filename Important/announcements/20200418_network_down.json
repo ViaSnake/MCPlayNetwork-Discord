@@ -1,0 +1,13 @@
+{
+    "title": "ANNOUNCE",
+    "fields": [
+        {
+            "name": ":flag_jp: ネットワーク障害",
+        "value": "2020/04/18 01:14頃から01:30頃にかけてネットワーク障害のためサーバーへのアクセスが不可能となっていました。\n\n原因：契約インターネットサービスプロバイダでの光通信障害"
+        },
+        {
+            "name": ":flag_us: Network down",
+        "value": "From 01:14 to 01:30 on 2020/04/18, it was impossible to access the server due to a network failure.\n\nCause: Optical communication failure in the contract Internet service provider"
+        }
+    ]
+}
